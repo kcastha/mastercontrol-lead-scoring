@@ -196,7 +196,11 @@ Open to opportunities in Data Analytics, Business Analytics, Data Science, and M
 
 ## Acknowledgments
 
-This project was completed as part of the MSBA Capstone Program.
+This project was completed as part of the MSBA Capstone 2026 Spring Program at the University of Utah.
+
+Special thanks to **Professor Jeff Webb** and **Professor David Agogo** for their guidance, mentorship, and support throughout the project.
+
+We also thank the **MasterControl team**, especially **Eric Bowen**, for providing the business context, data, and valuable feedback that made this project practical and impactful.
 
 The repository includes modeling, analysis, and business insights developed for the MasterControl lead scoring project.
 
