@@ -1,4 +1,11 @@
-# MasterControl Lead Scoring & Conversion Optimization
+
+# MasterControl Lead Scoring
+
+## Interactive Dashboard
+
+View the full dashboard here:
+
+[Open MasterControl Lead Scoring Dashboard](https://kcastha.github.io/mastercontrol-lead-scoring/index.html)
 
 ## Project Overview
 
