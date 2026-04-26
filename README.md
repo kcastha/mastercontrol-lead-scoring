@@ -5,7 +5,7 @@
 
 View the full dashboard here:
 
-[Open MasterControl Lead Scoring Dashboard](https://kcastha.github.io/mastercontrol-lead-scoring/index.html)
+[Open MasterControl Lead Scoring Dashboard](https://kcastha.github.io/mastercontrol-lead-scoring/dashboard.html)
 
 ## Project Overview
 
